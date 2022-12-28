@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "es6",
+    "moduleResolution": "Node",
+    "target": "es5",
+    "jsx": "preserve",
+    "jsxImportSource": "solid-js",
+    "types": [
+      "solid-js",
+      "solid-js/web"
+    ],
+    "allowJs": true
+  },
+  "include": [
+    "src"
+  ],
+}
